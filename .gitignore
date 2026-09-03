@@ -15,6 +15,9 @@ Localizaciones/*/
 # Jupyter
 .ipynb_checkpoints/
 
+# Cache de embeddings (datos derivados, se regeneran llamando a la API)
+.cache/
+
 # Python
 __pycache__/
 *.pyc
